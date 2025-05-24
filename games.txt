@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=iuHIqrOyTOE
 https://triniti-grodno.by/biznes-czentr.html
 
 
-https://www.techspot.com/downloads/4819-daemon-tools-lite.html - для работы с .iso файлами
+https://v2-daemon-tools.com/ - для работы с .iso файлами
